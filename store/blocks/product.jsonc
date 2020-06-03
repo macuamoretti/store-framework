@@ -1,6 +1,7 @@
 {
   "store.product": {
      "children": [
+      "breadcrumb",
        "flex-layout.row#main",
        "flex-layout.row#product-price",
        "shelf.relatedProducts",
