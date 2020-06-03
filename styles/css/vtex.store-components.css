@@ -18,11 +18,9 @@
     background-color: white;
     border: transparent;
 }
-
-
 .infoCardContainer--vintage {
     background-color: #EDCFD1
-}
+  }
 
 .infoCardContainer {
     max-width: 1260px;
