@@ -6,12 +6,12 @@
       "info-card#button-left",
       "flex-layout.row",
       "flex-layout.col",
-      "shelf" 
+      "shelf"
     ]
   },
   "rich-text": {
     "props": {
-      "text": "**Hello, World!**",
+      "text": "***Hello, World!***",
       "textPosition": "RIGHT"
     }
   },
@@ -26,7 +26,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockClass": "vintage"
+      "blockClass": "vintage"     
     }
   },
   "info-card#button-left": {
@@ -75,4 +75,5 @@
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
     }
-  },
+  }
+}
