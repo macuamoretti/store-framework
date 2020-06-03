@@ -28,23 +28,5 @@
       "product-price", 
       "buy-button"
     ]
-  },
-  "flex-layout.row#product-price": {
-    "children": [
-      "showSavings#product-price",
-      "showListPrice#product-price"
-    ]
-  },
-  "showSavings#product-price": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
-  },
-   "showListPrice#product-price": {
-    "props": {
-      "isOneClickBuy": true,
-      "showTooltipOnSkuNotSelected": false
-    }
-  }
  }
+}
