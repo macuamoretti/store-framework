@@ -4,8 +4,8 @@
       "breadcrumb",
        "flex-layout.row#main",
        "flex-layout.row#product-price",
-       "shelf.relatedProducts",
-       "flex-layout.row#product"
+       "flex-layout.row#product",
+       "shelf.relatedProducts"
      ]
    },
   "flex-layout.row#main": { 
