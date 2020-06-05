@@ -26,7 +26,7 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter#left",
-      "flex-layout.col#search#ight"
+      "flex-layout.col#search#right"
     ]
   },
   "flex-layout.row#top": {
