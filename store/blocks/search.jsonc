@@ -25,8 +25,8 @@
   },
   "flex-layout.row#results": {
     "children": [
-      "flex-layout.col#filter",
-      "flex-layout.col#search"
+      "flex-layout.col#filter#left",
+      "flex-layout.col#filter#ight"
     ]
   },
   "flex-layout.row#top": {
