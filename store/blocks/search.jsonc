@@ -26,7 +26,7 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter#left",
-      "flex-layout.col#filter#ight"
+      "flex-layout.col#search#ight"
     ]
   },
   "flex-layout.row#top": {
@@ -43,7 +43,7 @@
       "filter-navigator.v3"
     ]
   },
-  "flex-layout.col#filter#right": {
+  "flex-layout.col#search#right": {
     "children": [
       "search-content"
     ]
